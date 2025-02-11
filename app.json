@@ -23,6 +23,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "effe11b6-f240-4e64-a743-3d0316fbe657"
+      }
+    },
+    "owner": "ali_mahmoud1",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/effe11b6-f240-4e64-a743-3d0316fbe657"
     }
   }
 }
